@@ -118,6 +118,10 @@ I enjoy solving DSA problems, building AI-powered applications, and learning new
 <img src="https://img.shields.io/badge/LeetCode-FFC0CB?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://www.kaggle.com/khuushhi">
+<img src="https://img.shields.io/badge/Kaggle-FFD1DC?style=for-the-badge&logo=kaggle&logoColor=black"/>
+</a>
+
 </p>
 
 ---
