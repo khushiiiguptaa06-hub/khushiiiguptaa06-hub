@@ -189,13 +189,6 @@ I'm currently strengthening my problem-solving skills through **Striver A2Z DSA*
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khushiiiguptaa06-hub&theme=onedark&no-frame=true"/>
-</p>
-
----
 
 # 🌸 My Journey
 
