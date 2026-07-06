@@ -181,10 +181,10 @@ I'm currently strengthening my problem-solving skills through **Striver A2Z DSA*
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Activity Overview
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiiguptaa06-hub&theme=github-compact&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushiiiguptaa06-hub&theme=github"/>
 </p>
 
 ---
