@@ -7,7 +7,7 @@
 <h3 align="center">🌸 AI/ML Engineer in Progress 🌸</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F8A5C2&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Solving+DSA+Every+Day;Learning+One+Commit+At+A+Time"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F8A5C2&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Real+World+Projects;Daily+DSA+%26+LeetCode+Practice;Learning+One+Commit+At+A+Time"/>
 </p>
 
 <p align="center">
@@ -16,45 +16,67 @@
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
-Hi! I'm **Khushi Gupta**, a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, and software development.
+Hi! I'm **Khushi Gupta**, a **B.Tech Computer Science** student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 
-I enjoy solving DSA problems, building AI-powered applications, and learning new technologies through real-world projects.
+I'm currently strengthening my problem-solving skills through **Striver A2Z DSA**, building **AI-powered applications**, and continuously learning through real-world projects.
 
-### 🌷 My Philosophy
-
-> *Small progress every day eventually leads to big achievements.*
+> 🌷 *Small improvements every day create remarkable results.*
 
 ---
 
-## 🌱 Currently Learning
+# 🎯 Current Focus
 
-- Striver A2Z DSA Sheet
-- Daily LeetCode
-- Artificial Intelligence
-- Machine Learning
-- FastAPI
-- SQL
-- Open Source
-
----
-
-## 🎯 Current Goals
-
-- Build impactful AI projects
-- Improve problem-solving skills
-- Contribute to Open Source
-- Learn System Design
-- Grow into an AI/ML Engineer through continuous learning
+- 📚 Striver A2Z DSA Sheet
+- 💻 Daily LeetCode Practice
+- 🤖 Machine Learning
+- ⚡ FastAPI Development
+- 🗄 SQL & Databases
+- 🌍 Open Source Contributions
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 AI/ML Roadmap
+
+| Skill | Progress |
+|--------|----------|
+| 🐍 Python | ✅ |
+| 🌿 Git & GitHub | ✅ |
+| 🗄 SQL | ✅ |
+| 📚 Data Structures & Algorithms | 🟡 |
+| 🤖 Machine Learning | 🟡 |
+| ⚡ FastAPI | 🟡 |
+| 🧠 Deep Learning | ⬜ |
+| 💬 NLP | ⬜ |
+| ☁️ MLOps | ⬜ |
+| 🏗 System Design | ⬜ |
+
+---
+
+# 📚 DSA Progress
+
+| Topic | Status |
+|--------|--------|
+| Arrays | ✅ |
+| Hashing | ✅ |
+| Two Pointers | 🟡 |
+| Sliding Window | ⬜ |
+| Binary Search | ⬜ |
+| Linked List | ⬜ |
+| Stack | ⬜ |
+| Queue | ⬜ |
+| Trees | ⬜ |
+| Graphs | ⬜ |
+| Dynamic Programming | ⬜ |
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,fastapi,mysql&theme=light"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,fastapi,mysql,sqlite&theme=light"/>
 
 </p>
 
@@ -68,13 +90,35 @@ I enjoy solving DSA problems, building AI-powered applications, and learning new
 
 <img src="https://img.shields.io/badge/Machine%20Learning-FFD1DC?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SQL-FFE4EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-FFE4EC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-FFD1DC?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/khushii_guptaa/">
+<img src="https://img.shields.io/badge/LeetCode-FFC0CB?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.kaggle.com/khuushhi">
+<img src="https://img.shields.io/badge/Kaggle-FFD1DC?style=for-the-badge&logo=kaggle&logoColor=black"/>
+</a>
+
+<a href="https://github.com/khushiiiguptaa06-hub">
+<img src="https://img.shields.io/badge/GitHub-FFE4EC?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -92,17 +136,28 @@ I enjoy solving DSA problems, building AI-powered applications, and learning new
 
 ---
 
-## 🌸 What I'm Working On
+# 🚀 Featured Projects
 
-- Striver A2Z DSA
-- Daily LeetCode
-- AI & Machine Learning
-- Portfolio Projects
-- Internship Preparation
+| Project | Tech Stack |
+|---------|------------|
+| 🎫 Ticket Triage | Python • FastAPI • Scikit-Learn |
+| 🏛 Bureaucracy Buster | Python • OCR • LLM |
+| 🎓 Scholarship Matcher | Python • SQLite |
+| 📚 DSA Python | Python • Algorithms |
 
 ---
 
-## 🌷 Connect With Me
+# 🏆 Achievements
+
+- 🎯 Solving Striver A2Z DSA Sheet
+- 💻 Daily LeetCode Practice
+- 🤖 Building AI/ML Projects
+- 🌱 Learning Open Source
+- 🚀 Growing my GitHub Portfolio
+
+---
+
+# 🌷 Connect With Me
 
 <p align="center">
 
@@ -111,7 +166,7 @@ I enjoy solving DSA problems, building AI-powered applications, and learning new
 </a>
 
 <a href="mailto:khushiii.guptaa06@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://leetcode.com/u/khushii_guptaa/">
@@ -126,51 +181,7 @@ I enjoy solving DSA problems, building AI-powered applications, and learning new
 
 ---
 
-## 🌸 My Journey
-
-My journey into programming started with Python and gradually grew into a passion for Artificial Intelligence and Machine Learning.
-
-Today, I'm strengthening my problem-solving skills through the Striver A2Z DSA Sheet while building real-world AI applications that solve meaningful problems.
-
-Every project, every bug, and every solved problem teaches me something new—and that's what keeps me motivated.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎫 Ticket Triage | AI-powered ticket classification & routing using Python, FastAPI & Machine Learning. |
-| 🎓 Scholarship Matcher | Smart scholarship recommendation platform. |
-| 🗣 Speaking AI *(Coming Soon)* | AI-powered English speaking practice platform. |
-| 📚 DSA Repository | My complete Striver A2Z + LeetCode journey in Python. |
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=khushiiiguptaa06-hub&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-## ☕ Fun Fact
-
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
-
-> 🌸 Powered by curiosity, consistency, and lots of debugging.
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiiguptaa06-hub&theme=github-compact&hide_border=true"/>
@@ -178,30 +189,36 @@ while True:
 
 ---
 
-## 💖 Developer Philosophy
+# 🏆 GitHub Trophies
 
-> *"Turning curiosity into code, one project at a time."*
-
-> *"I don't chase perfection. I chase progress."*
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=khushiiiguptaa06-hub&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
-## 💌 Thanks for Visiting
+# 🌸 My Journey
+
+Programming started as curiosity, but it quickly became my passion.
+
+Today I'm focused on becoming an **AI/ML Engineer** by combining **strong DSA**, **Machine Learning**, and **real-world software projects**.
+
+Every solved problem, every project, and every bug teaches me something new—and that's exactly what keeps me moving forward.
+
+---
 
 <p align="center">
 
-Thank you for visiting my profile! 🌸
+### 🌸 Turning curiosity into code, one project at a time.
 
-I'm always excited to learn, collaborate, and build meaningful projects.
+⭐ Thank you for visiting my profile!
 
 If you like my work, consider ⭐ starring a repository.
 
-Let's build something amazing together!
+Let's learn, build, and grow together.
 
 </p>
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
-
 </p>
