@@ -122,9 +122,9 @@ I'm currently strengthening my problem-solving skills through **Striver A2Z DSA*
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushiiiguptaa06-hub&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khushiiiguptaa06-hub&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiiiguptaa06-hub&layout=compact&theme=graywhite&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khushiiiguptaa06-hub&layout=compact&theme=graywhite&hide_border=true"/>
 
 </p>
 
